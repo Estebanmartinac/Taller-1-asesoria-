@@ -1,3 +1,7 @@
+
 David Esteban Martin Acosta
 18
 Aprender los conceptos del paradigma poo y poderlos aplicar en un contexto determinado
+Como la carpeta archivos ya no esta vacia, esto representa un cambio y por ende, se puede hacer commit
+Porque se puede generar conflictos con las diferentes versiones del archivo 
+
