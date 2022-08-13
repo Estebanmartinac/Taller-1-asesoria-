@@ -1,0 +1,1 @@
+Como la carpeta archivos ya no esta vacia, esto representa un cambio y por ende, se puede hacer commit
